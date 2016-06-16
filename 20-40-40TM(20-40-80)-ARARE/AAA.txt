@@ -1,1 +1,3 @@
+Introduction to Multimedia and  the Internet
 Programming and Design of Mobile Applications
+Web Programming using PHP

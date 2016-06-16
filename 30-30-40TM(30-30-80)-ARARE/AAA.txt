@@ -1,1 +1,2 @@
-IPJ
+Introduction to Programming using Java - IPJ
+Introduction to Computer Science - ICS

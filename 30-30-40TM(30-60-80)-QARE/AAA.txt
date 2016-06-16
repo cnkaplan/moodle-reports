@@ -1,1 +1,3 @@
+Business Information Systems
 Principles of Computer Forensics
+Principles of Computer Security

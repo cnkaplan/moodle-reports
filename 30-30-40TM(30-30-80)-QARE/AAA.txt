@@ -1,4 +1,5 @@
 CMCA - Computational Mathematics and Computer Architecture
 FCS - Fundamentals of Computer Systems
-IDD - Introduction to Database Design and Development
+IDDD - Introduction to Database Design and Development
 IDC - Introduction to Data Communications
+PISDM - Principles of Information Systems  & Data Management
