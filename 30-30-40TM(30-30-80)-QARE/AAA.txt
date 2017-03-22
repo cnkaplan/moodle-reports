@@ -1,5 +1,12 @@
-CMCA - Computational Mathematics and Computer Architecture
-FCS - Fundamentals of Computer Systems
-IDDD - Introduction to Database Design and Development
-IDC - Introduction to Data Communications
-PISDM - Principles of Information Systems  & Data Management
+Advanced Corporate Finance
+Applied Financial Reporting & Analysis
+Computational Mathematics and Computer Architecture
+Contemporary Issues in International Finance
+Corporate Finance
+Financial Decision Making for Managers 
+Fundamentals of Computer Systems
+International Finance
+Introduction to Data Communications
+Introduction to Database Design and Development
+Principles of Banking & Finance
+Principles of Information Systems  & Data Management
