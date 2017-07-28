@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2016020103"><visible><![CDATA[1]]></visible>
-<name><![CDATA[Pie Chart]]></name>
+<name><![CDATA[Grade Pie Chart]]></name>
 <summary><![CDATA[]]></summary>
 <type><![CDATA[sql]]></type>
 <pagination><![CDATA[0]]></pagination>
@@ -8,7 +8,7 @@
 <export><![CDATA[]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[0]]></global>
-<lastexecutiontime><![CDATA[157]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[6184]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
 <remote><![CDATA[0]]></remote>
 </report>
